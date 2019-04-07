@@ -1,0 +1,34 @@
+.defaultTextBox {
+    padding: 0;
+    height: 30px;
+    position: relative;
+    left: 5px;
+    bottom: 1px;
+    outline: none;
+    border-top:1px solid #cdcdcd;
+    border-left:0px solid #cdcdcd;
+    border-right:0px solid #cdcdcd;
+    border-bottom-color: red;
+    font-family: Bahnschrift;
+    background-color: white;
+    font-size: 16px;
+}
+
+.p1 {
+    font-family: Bahnschrift;
+    margin-left:50px;
+}
+
+.p {
+    font-family:Bahnschrift;
+    margin-left:30px;
+}
+
+.Down {
+    margin-top:25px;
+}
+
+.advancedSearchTextbox {
+    width: 526px;
+    margin-right: -4px;
+}
